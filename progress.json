@@ -133,5 +133,14 @@
       "\"first-pilot\" should point to the first commit."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "tags-add",
+    "started_at": 1787382214.181091,
+    "completed_at": 1787382216.844768,
+    "comments": [
+      "Great work using git tag to annotate various commits in the repository!"
+    ],
+    "status": "Completed"
   }
 ]
